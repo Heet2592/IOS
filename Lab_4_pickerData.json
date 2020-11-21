@@ -1,21 +1,22 @@
 {
 "student" : "Heet Patel",
-"Version" : "1",
-"Count" : "3",
-"Data" :
+"version" : "1",
+ "timestamp" : "2020-11-20T07:07:10:12+0000",
+"count" : "3",
+"data" :
   [{
   "location" : "Balcony Level",
-  "availableSeats" : "25",
-  "ticketPrice" : "1170.0 $"  
+  "availableSeats" : 25,
+  "ticketPrice" : 1170.0   
   },
   {
   "location" : "Lower Level",
-  "availableSeats" : "40",
-  "ticketPrice" : "10434.0 $"
+  "availableSeats" : 40,
+  "ticketPrice" : 10434.0 
   },
   {
   "location" : "Court Side",
-  "availableSeats" : "30",
-  "ticketPrice" : "27777.0 $"
+  "availableSeats" : 30,
+  "ticketPrice" : 27777.0 
   }]
 }
